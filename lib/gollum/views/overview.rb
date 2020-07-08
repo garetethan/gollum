@@ -7,7 +7,7 @@ module Precious
       HIDDEN_PATHS = ['.gitkeep']
 
       def title
-        "Overview of #{@ref}"
+        "Index"
       end
 
       # def editable
